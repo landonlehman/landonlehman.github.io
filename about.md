@@ -3,13 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
+I am a graduate student in theoretical physics at the Unversity of Notre Dame,
+advised by Adam Martin. I have a bachelor's degree in physics along with a minor
+in math from Purdue University. My research is currently focused on operators in
+the Standard Model effective field theory. I have also worked on LHC
+phenomenology, along with a bit of cosmology. See my cv for a complete list of
+my publications.
 
 * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
