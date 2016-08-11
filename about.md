@@ -52,4 +52,4 @@ wishlist](https://amzn.com/w/18M6E3W8IUTM6 ) is a good place to start.
 
 Based on [Mark Otto's](https://github.com/mdo)
 [Hyde](https://github.com/poole/hyde) theme. I am currently transitioning from
-[landonlehman.com](www.landonlehman.com), which is Wordpress based.
+[landonlehman.com](https://landonlehman.com), which is Wordpress based.
