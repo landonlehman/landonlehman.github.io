@@ -28,3 +28,5 @@ gems:
  - jekyll-paginate
  - jekyll-gist
 
+# Google services
+google_analytics: UA-82442631-1
