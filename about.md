@@ -21,22 +21,25 @@ Notre Dame, IN 46556 USA
 
 email:`llehman at nd.edu`
 
-### History
 
-### Other interests
+### Interests
 
-#### Reading science fiction
+#### Reading good books
 
-Some of my perenially favorite authors are [Neal
+Some of my perenially favorite fiction writers are [Neal
 Stephenson](http://www.nealstephenson.com/ ), [Peter
 Watts](http://www.rifters.com/ ), [Dan
 Simmons](http://www.dansimmons.com/index.html ), and [William
 Gibson](http://www.williamgibsonbooks.com/ ). I have also recently enjoyed Liu
 Cixin and [Pierce Brown](http://www.pierce-brown.com/).
 
+I am currently reading *The Invention of Science: A New History of the
+Scientific Revolution* by David Wootton.
+
 #### Working out
 
-Currently at [Crossfit South Bend](http://crossfitsouthbend.com/).
+Currently at [Crossfit South Bend](http://crossfitsouthbend.com/). Constantly
+chasing better movement patterns.
 
 #### Listening to good music
 
